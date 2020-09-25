@@ -1,0 +1,20 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Test learning angular 1",
+  "main": "indexe.html\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/ChanezA/git-test.git"
+  },
+  "author": "Chanez AMRI",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
